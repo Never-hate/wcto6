@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Live Match (Widevine)
+#EXTINF:-1 tvg-name="Toffee Live", Toffee Live Match HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://prod-services.toffeelive.com/drmgw/v1/license
-https://voddrmprod-cdn.toffeelive.com/output/20260429/ZkAl2J0BuUSiBsg_XkGd/manifest_dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://prod-services.toffeelive.com/drmgw/v1/license|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://toffeelive.com/&Origin=https://toffeelive.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://voddrmprod-cdn.toffeelive.com/output/20260429/ZkAl2J0BuUSiBsg_XkGd/manifest_dash.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://toffeelive.com/&Origin=https://toffeelive.com
