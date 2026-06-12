@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/7EFUjp4BuUSiBsg_qRfV/posters/dfd0f697-19ae-405c-90f5-fe910b205da9.jpeg" group-title="Sports", Mexico vs South Africa | Fri Jun 12 1:00 AM
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-kFajp4BuUSiBsg_6Reu/posters/5a131811-c83f-451a-88e8-03a1459726a9.png" group-title="Sports", CANADA VS BOSNIA 13 JUNE 1:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781064413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fbLhrdK5ZPu4MzE2KEO2wqZN6TGGBAyDYweYgfHzrSpVAmr4qrmbE9x0tUTCUuEZubwMP9WxjwdIH4eTZZ--8A
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_3000.m3u8
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781353290~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fyRtl0taJEefIjgMYDR35Avw4M6f-_kMXeOL4Hg7cScZ8HR1ZKFGXjPwu701ztUUF3arqWljd_Z3LqC54a_FwD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_4000.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/8kFYjp4BuUSiBsg_2xfx/posters/ca9e9d82-d04c-43df-9597-9c7065cd6b23.jpeg" group-title="Sports", South Korea vs Czechia | Fri Jun 12 8:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781064413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fbLhrdK5ZPu4MzE2KEO2wqZN6TGGBAyDYweYgfHzrSpVAmr4qrmbE9x0tUTCUuEZubwMP9WxjwdIH4eTZZ--8A
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_3000.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-kFajp4BuUSiBsg_6Reu/posters/cf696cb1-b801-4a8e-8da4-57739b2d1000.png" group-title="Sports", - Canada vs Bosnia and Herzegovina | Sat Jun 13 1:00 AM
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/AkFcjp4BuUSiBsg_iRgi/posters/9b2b7905-d0c9-4a59-b1be-ec8c18ef78aa.png" group-title="Sports",USA VS PARAGUA 13 JUNE 7:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781064413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fbLhrdK5ZPu4MzE2KEO2wqZN6TGGBAyDYweYgfHzrSpVAmr4qrmbE9x0tUTCUuEZubwMP9WxjwdIH4eTZZ--8A
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_3000.m3u8
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781353290~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fyRtl0taJEefIjgMYDR35Avw4M6f-_kMXeOL4Hg7cScZ8HR1ZKFGXjPwu701ztUUF3arqWljd_Z3LqC54a_FwD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_2500.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/AkFcjp4BuUSiBsg_iRgi/posters/f758b553-8a1f-467a-90b3-fe66d9782158.png" group-title="Sports", - USA vs Paraguay | Sat Jun 13 7:00 AM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/vf9ysZ4BObUt2AG6n2Az/posters/af4ebb99-e874-4a1e-a77c-c91fa0c336ec.pngg" group-title="Sports", QATAR VS SWITZERLAND 14 JUNE 1:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781064413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fbLhrdK5ZPu4MzE2KEO2wqZN6TGGBAyDYweYgfHzrSpVAmr4qrmbE9x0tUTCUuEZubwMP9WxjwdIH4eTZZ--8A
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_3000.m3u8
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781353290~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fyRtl0taJEefIjgMYDR35Avw4M6f-_kMXeOL4Hg7cScZ8HR1ZKFGXjPwu701ztUUF3arqWljd_Z3LqC54a_FwD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_4000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/EzVzsZ4Bb1O6C9k7JBki/posters/09495d06-0718-480a-9aa7-3b467de9ce71.png" group-title="Sports",BRAZIL VS MOROCCO 14 JUNE 4:00 AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781353290~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fyRtl0taJEefIjgMYDR35Avw4M6f-_kMXeOL4Hg7cScZ8HR1ZKFGXjPwu701ztUUF3arqWljd_Z3LqC54a_FwD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/vf9ysZ4BObUt2AG6n2Az/posters/af4ebb99-e874-4a1e-a77c-c91fa0c336ec.png" group-title="Sports",AUSTRALIA VS TURKIEY 14 JUNE 10:00 AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781353290~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fyRtl0taJEefIjgMYDR35Avw4M6f-_kMXeOL4Hg7cScZ8HR1ZKFGXjPwu701ztUUF3arqWljd_Z3LqC54a_FwD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/1_9zsZ4BObUt2AG6imC0/posters/9a9289d2-3c1b-459e-927d-cf00482fcaf8.png" group-title="Sports",GERMANY VS CURACAO 14 JUNE 11:00 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=Expires=1781353290~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fyRtl0taJEefIjgMYDR35Avw4M6f-_kMXeOL4Hg7cScZ8HR1ZKFGXjPwu701ztUUF3arqWljd_Z3LqC54a_FwD
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_3500.m3u8
