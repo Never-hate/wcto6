@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1, OTT Live Channel
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,xck1rwVWdNwKgwJMjyjS1A==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#EXTINF:-1, Live Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c72935af055674dc0a83024c8f28d2d4:c72935af055674dc0a83024c8f28d2d4
 https://ott.bingebd.com/vod/_definst_/source/Originals_TAS_Full_All.smil/chunklist_b494100_sleng.m3u8
